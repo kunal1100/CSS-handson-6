@@ -134,20 +134,16 @@
     top: -30px;
 }
 .cards:hover{
-    z-index: 1;
-    transform: scale(1.05);
+    transform: translateY(-10px);
 }
 .cards2:hover{
-    z-index: 1;
-    transform: scale(1.05);
+    transform: translateY(-10px);
 }
 .cards3:hover{
-    z-index: 1;
-    transform: scale(1.05);
+    transform: translateY(-10px);
 }
 .cards4:hover{
-    z-index: 1;
-    transform: scale(1.05);
+    transform: translateY(-10px);
 }
 
 @media (min-width: 481px) and (max-width: 1020px){
